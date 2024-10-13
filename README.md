@@ -1,6 +1,6 @@
 # Pong Game
 
-A classic Pong-style game with simple controls and an intuitive interface. Below is a brief summary of its features:
+It's a Ping Pong game with simple controls and an intuitive interface. Below is a brief summary of its features:
 
 ## Game Summary
 
