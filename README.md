@@ -82,8 +82,3 @@ A simple implementation of the classic Pong game. This project simulates a two-p
 - Implement AI for single-player mode.
 - Add sound effects for ball hits, scoring, and game events.
 
-## Installation & Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/pong-game.git
