@@ -1,9 +1,34 @@
-# GUI-Ping-Pong-Game
-This Game has Main Menu which Includes Basic option to run the Game and also it provides options like restart, Pause and Main Menu while  Playing the game \n
-
 # Pong Game
 
-A simple implementation of the classic Pong game. This project simulates a two-player game of Pong with a basic scoring system, paddle controls, and ball physics. It also includes features like game states, optional power-ups, and collision detection.
+A classic Pong-style game with simple controls and an intuitive interface. Below is a brief summary of its features:
+
+## Game Summary
+
+This game features a **Start Menu** with the following options:
+
+- **Start Game**: Begins a new game.
+- **Settings**: Allows players to adjust game options (such as sound, difficulty, etc.).
+- **Exit**: Closes the game.
+
+Once in the game, players control paddles to hit a bouncing ball and try to score against their opponent. The game panel offers additional controls through the **Pause Menu**, with options for:
+
+- **Pause**: Temporarily stop the game.
+- **Restart**: Reset the current game and start fresh.
+- **Main Menu**: Return to the start menu from the game panel.
+
+The objective is to score points by getting the ball past the opponent's paddle. The game supports a basic scoring system and offers a smooth, engaging experience with options to pause, restart, and adjust settings.
+
+## How to Play
+1. Start the game from the **Start Menu**.
+2. Control the paddles using:
+   - Player 1: `W` (Up) and `S` (Down)
+   - Player 2: `Up Arrow` and `Down Arrow`
+3. The game ends when a player scores enough points to win.
+
+## Additional Features
+- **Pause and Restart** during gameplay.
+- **Return to the Main Menu** at any time.
+
 
 ## Game Logic
 
