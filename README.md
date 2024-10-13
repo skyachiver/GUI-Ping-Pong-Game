@@ -107,6 +107,7 @@ The objective is to score points by getting the ball past the opponent's paddle.
 - Implement AI for single-player mode.
 - Add sound effects for ball hits, scoring, and game events.
 
+## Game Screenshot
 ![Start Menu]([image_url](https://github.com/skyachiver/GUI-Ping-Pong-Game/blob/main/Screenshot%202024-10-13%20151051.png?raw=true))
 
 
